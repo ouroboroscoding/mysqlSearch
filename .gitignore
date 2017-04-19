@@ -1,0 +1,7 @@
+# Compiled python modules.
+*.pyc
+
+# Misc. IDE files
+.project
+.pydevproject
+.settings
